@@ -1,0 +1,34 @@
+Java is a widely used, high-level, object-oriented programming language designed to be platform-independent. It follows the "Write Once, Run Anywhere" (WORA) principle, meaning Java code can run on any device that has a Java Virtual Machine (JVM).
+
+Key Features of Java
+Object-Oriented – Java is based on OOP principles like inheritance, encapsulation, and polymorphism, making it modular and reusable.
+
+Platform-Independent – Java code is compiled into bytecode, which runs on the JVM, allowing execution on any operating system with a compatible JVM.
+
+Robust and Secure – Java has strong memory management, exception handling, and security features like a built-in security manager.
+
+Multithreading – Java supports concurrent execution of multiple threads, improving performance in applications.
+
+Automatic Memory Management – The garbage collector automatically removes unused objects, preventing memory leaks.
+
+Rich API – Java provides a vast library of built-in functions for networking, database handling, and graphical user interfaces.
+
+Java Components
+JDK (Java Development Kit) – Includes the compiler, debugger, and development tools.
+
+JRE (Java Runtime Environment) – Provides libraries and JVM to run Java applications.
+
+JVM (Java Virtual Machine) – Converts bytecode into machine code for execution.
+
+Common Uses of Java
+Web applications (Spring, Hibernate)
+
+Mobile development (Android uses Java for native development)
+
+Enterprise software
+
+Game development
+
+Cloud computing
+
+Big data and AI applications
